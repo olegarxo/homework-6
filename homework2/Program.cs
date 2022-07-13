@@ -13,9 +13,17 @@ void printMassive(double[] sumMassive)
 {
     int index = 0;
     int length = sumMassive.Length;
+    Console.Write("Координаты точки пересечения: ");
     while(index<length)
     {
-        Console.Write($"{sumMassive[index]}\t ");
+        if(index == 0)
+        {
+            Console.Write($"({Math.Round(sumMassive[index],2)};");
+        }
+        else if (index ==1)
+        {
+             Console.Write($"{Math.Round(sumMassive[index],2)})");
+        }
         index++;
     }
 }
