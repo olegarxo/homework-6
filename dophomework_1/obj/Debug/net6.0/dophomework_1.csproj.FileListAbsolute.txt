@@ -1,0 +1,15 @@
+C:\Users\Smirnov_ON\Desktop\stady\dophomework_1\bin\Debug\net6.0\dophomework_1.exe
+C:\Users\Smirnov_ON\Desktop\stady\dophomework_1\bin\Debug\net6.0\dophomework_1.deps.json
+C:\Users\Smirnov_ON\Desktop\stady\dophomework_1\bin\Debug\net6.0\dophomework_1.runtimeconfig.json
+C:\Users\Smirnov_ON\Desktop\stady\dophomework_1\bin\Debug\net6.0\dophomework_1.dll
+C:\Users\Smirnov_ON\Desktop\stady\dophomework_1\bin\Debug\net6.0\dophomework_1.pdb
+C:\Users\Smirnov_ON\Desktop\stady\dophomework_1\obj\Debug\net6.0\dophomework_1.csproj.AssemblyReference.cache
+C:\Users\Smirnov_ON\Desktop\stady\dophomework_1\obj\Debug\net6.0\dophomework_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smirnov_ON\Desktop\stady\dophomework_1\obj\Debug\net6.0\dophomework_1.AssemblyInfoInputs.cache
+C:\Users\Smirnov_ON\Desktop\stady\dophomework_1\obj\Debug\net6.0\dophomework_1.AssemblyInfo.cs
+C:\Users\Smirnov_ON\Desktop\stady\dophomework_1\obj\Debug\net6.0\dophomework_1.csproj.CoreCompileInputs.cache
+C:\Users\Smirnov_ON\Desktop\stady\dophomework_1\obj\Debug\net6.0\dophomework_1.dll
+C:\Users\Smirnov_ON\Desktop\stady\dophomework_1\obj\Debug\net6.0\refint\dophomework_1.dll
+C:\Users\Smirnov_ON\Desktop\stady\dophomework_1\obj\Debug\net6.0\dophomework_1.pdb
+C:\Users\Smirnov_ON\Desktop\stady\dophomework_1\obj\Debug\net6.0\dophomework_1.genruntimeconfig.cache
+C:\Users\Smirnov_ON\Desktop\stady\dophomework_1\obj\Debug\net6.0\ref\dophomework_1.dll
